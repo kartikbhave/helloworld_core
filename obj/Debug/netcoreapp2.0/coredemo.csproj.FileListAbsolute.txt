@@ -1,0 +1,10 @@
+C:\Users\kbhave\coredemo\bin\Debug\netcoreapp2.0\coredemo.deps.json
+C:\Users\kbhave\coredemo\bin\Debug\netcoreapp2.0\coredemo.runtimeconfig.json
+C:\Users\kbhave\coredemo\bin\Debug\netcoreapp2.0\coredemo.runtimeconfig.dev.json
+C:\Users\kbhave\coredemo\bin\Debug\netcoreapp2.0\coredemo.dll
+C:\Users\kbhave\coredemo\bin\Debug\netcoreapp2.0\coredemo.pdb
+C:\Users\kbhave\coredemo\obj\Debug\netcoreapp2.0\coredemo.csproj.CoreCompileInputs.cache
+C:\Users\kbhave\coredemo\obj\Debug\netcoreapp2.0\coredemo.AssemblyInfoInputs.cache
+C:\Users\kbhave\coredemo\obj\Debug\netcoreapp2.0\coredemo.AssemblyInfo.cs
+C:\Users\kbhave\coredemo\obj\Debug\netcoreapp2.0\coredemo.dll
+C:\Users\kbhave\coredemo\obj\Debug\netcoreapp2.0\coredemo.pdb
