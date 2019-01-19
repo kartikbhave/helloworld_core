@@ -1,0 +1,11 @@
+C:\Kartik\session\helloworld_core\coreproject\bin\Debug\netcoreapp2.0\coredemo.deps.json
+C:\Kartik\session\helloworld_core\coreproject\bin\Debug\netcoreapp2.0\coredemo.runtimeconfig.json
+C:\Kartik\session\helloworld_core\coreproject\bin\Debug\netcoreapp2.0\coredemo.runtimeconfig.dev.json
+C:\Kartik\session\helloworld_core\coreproject\bin\Debug\netcoreapp2.0\coredemo.dll
+C:\Kartik\session\helloworld_core\coreproject\bin\Debug\netcoreapp2.0\coredemo.pdb
+C:\Kartik\session\helloworld_core\coreproject\obj\Debug\netcoreapp2.0\coredemo.csprojAssemblyReference.cache
+C:\Kartik\session\helloworld_core\coreproject\obj\Debug\netcoreapp2.0\coredemo.csproj.CoreCompileInputs.cache
+C:\Kartik\session\helloworld_core\coreproject\obj\Debug\netcoreapp2.0\coredemo.AssemblyInfoInputs.cache
+C:\Kartik\session\helloworld_core\coreproject\obj\Debug\netcoreapp2.0\coredemo.AssemblyInfo.cs
+C:\Kartik\session\helloworld_core\coreproject\obj\Debug\netcoreapp2.0\coredemo.dll
+C:\Kartik\session\helloworld_core\coreproject\obj\Debug\netcoreapp2.0\coredemo.pdb
