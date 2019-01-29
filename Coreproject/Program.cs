@@ -14,7 +14,16 @@ namespace coredemo
     {
         public static void Main(string[] args)
         {
-            BuildWebHost(args).Run();
+            //BuildWebHost(args).Run();
+            var host = new WebHostBuilder()
+            .UseKestrel()
+            .UseContentRoot(Directory.GetCurrentDirectory())
+            .UseUrls("http://*:5000")
+            .UseIISIntegration()
+            .UseStartup<Startup>()
+            .Build();
+
+        host.Run();
         }
 
         public static IWebHost BuildWebHost(string[] args) =>
