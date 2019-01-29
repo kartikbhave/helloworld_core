@@ -1,7 +1,7 @@
 from microsoft/dotnet:latest
 
-copy . app
-workdir /app/Coreproject
+copy -r Coreproject/ app
+workdir /app
 
 run dotnet restore
 run dotnet build
