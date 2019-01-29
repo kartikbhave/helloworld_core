@@ -1,6 +1,6 @@
 from microsoft/dotnet:latest
 
-copy -r Coreproject/ app
+copy Coreproject/ app
 workdir /app
 
 run dotnet restore
